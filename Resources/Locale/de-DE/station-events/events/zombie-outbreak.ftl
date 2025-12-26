@@ -1,0 +1,1 @@
+station-event-zombie-outbreak-announcement = Bestätigte Sichtungen verschiedener Untoter an Bord der Station. Alle Mitarbeiter sollten sich bewaffnen, Türen verbarrikadieren und ihren Standort sichern, um eine weitere Infektion zu verhindern.

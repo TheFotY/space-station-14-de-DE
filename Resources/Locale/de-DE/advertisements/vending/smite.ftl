@@ -1,0 +1,12 @@
+advertisement-smite-1 = SMITE! Verbanne deinen Durst!
+advertisement-smite-2 = Ein eldritchischer Schlag aus Zitrone und Limette!
+advertisement-smite-3 = Über 1 Million verkaufte Getränke!
+advertisement-smite-4 = SMITE! Würfle 2W8 für GESCHMACK.
+advertisement-smite-5 = SMITE! Lass uns den Papierkram erledigen!
+advertisement-smite-6 = Der Hausmeister hat es auf dich abgesehen!
+advertisement-smite-7 = SMITE! Es wird dich nicht betrunken machen.
+advertisement-smite-8 = Es ist Zitronen-Limetten-Zeit!
+thankyou-smite-1 = Smite macht recht!
+thankyou-smite-2 = Du wolltest DEFINITIV Zitrone-Limette!
+thankyou-smite-3 = Das Büro wird nicht wissen, was sie getroffen hat.
+thankyou-smite-4 = Verbanne deinen Durst.

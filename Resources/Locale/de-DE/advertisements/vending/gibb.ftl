@@ -1,0 +1,12 @@
+advertisement-gibb-1 = Lecker!
+advertisement-gibb-2 = Von mindestens einem Arzt empfohlen!
+advertisement-gibb-3 = Über 1 Million verkaufte Getränke!
+advertisement-gibb-4 = Dr. Gibb, was ist das Schlimmste, das passieren könnte?
+advertisement-gibb-5 = Dr. Gibb, die Geschmacksexplosion!
+advertisement-gibb-6 = Vertrau mir, ich bin Arzt!
+advertisement-gibb-7 = Die beste Zuckerinfusion der Galaxie!
+advertisement-gibb-8 = Space Cola kann gegibbst werden!
+thankyou-gibb-1 = Der Doktor ist... in deinem Bauch!
+thankyou-gibb-2 = Diagnose: Geschmack!
+thankyou-gibb-3 = Genieße die 42 Geschmacksrichtungen!
+thankyou-gibb-4 = Genieße die sirupartige Güte!
