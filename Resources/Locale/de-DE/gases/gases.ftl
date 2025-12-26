@@ -1,0 +1,9 @@
+gases-oxygen = Sauerstoff
+gases-nitrogen = Stickstoff
+gases-co2 = Kohlendioxid
+gases-plasma = Plasma
+gases-tritium = Tritium
+gases-water-vapor = Wasserdampf
+gases-ammonia = Ammoniak
+gases-n2o = Lachgas
+gases-frezon = Frezon

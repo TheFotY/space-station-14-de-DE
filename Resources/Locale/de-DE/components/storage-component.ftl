@@ -1,0 +1,12 @@
+comp-storage-no-item-size = N/A
+comp-storage-cant-insert = Kann nicht einsetzen.
+comp-storage-too-big = Zu groß!
+comp-storage-insufficient-capacity = Kein Platz!
+comp-storage-invalid-container = Das gehört da nicht rein!
+comp-storage-anchored-failure = Kann keinen verankerten Gegenstand einsetzen.
+comp-storage-cant-drop = Du kannst { THE($entity) } nicht loslassen!
+comp-storage-window-title = Lagergegenstand
+comp-storage-window-weight = { $weight }/{ $maxWeight }, Max. Größe: {$size}
+comp-storage-window-slots = Slots: { $itemCount }/{ $maxCount }, Max. Größe: {$size}
+comp-storage-verb-open-storage = Lager öffnen
+comp-storage-verb-close-storage = Lager schließen
