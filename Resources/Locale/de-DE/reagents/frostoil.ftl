@@ -1,0 +1,3 @@
+### Nachrichten, die beim Verstoffwechseln von Frostöl erscheinen.
+
+frost-oil-effect-light-cold = Du spürst ein leichtes Kälteprickeln in deinem Hals...
