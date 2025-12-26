@@ -1,0 +1,22 @@
+badfeeling-artifact-1 = Irgendwas fühlt sich nicht richtig an.
+badfeeling-artifact-2 = Du hast ein seltsames Gefühl im Bauch.
+badfeeling-artifact-3 = Deine Instinkte versuchen dich vor etwas zu warnen.
+badfeeling-artifact-4 = Jemand ist gerade über dein Grab gelaufen.
+badfeeling-artifact-5 = Ein seltsames Gefühl liegt in der Luft.
+badfeeling-artifact-6 = Ein seltsamer Geruch liegt in der Luft.
+badfeeling-artifact-7 = Deine Fingerspitzen kribbeln.
+badfeeling-artifact-8 = Du fühlst dich verhext.
+badfeeling-artifact-9 = Du hast ein schreckliches Vorgefühl.
+badfeeling-artifact-10 = Du hast ein schlechtes Gefühl dabei.
+badfeeling-artifact-11 = Deine Kopfhaut prickelt.
+badfeeling-artifact-12 = Das Licht scheint zu flackern.
+badfeeling-artifact-13 = Die Schatten scheinen länger zu werden.
+badfeeling-artifact-14 = Die Wände kommen näher.
+badfeeling-artifact-15 = Etwas stimmt nicht.
+
+badfeeling-artifact-drastic-1 = Jemand versucht dich zu töten!
+badfeeling-artifact-drastic-2 = Da draußen ist etwas!
+badfeeling-artifact-drastic-3 = Was passiert mit dir?
+badfeeling-artifact-drastic-4 = OH GOTT!
+badfeeling-artifact-drastic-5 = HILF MIR!
+badfeeling-artifact-drastic-6 = Du musst hier raus!
