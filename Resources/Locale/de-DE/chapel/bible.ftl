@@ -1,0 +1,10 @@
+bible-heal-success-self = Sie berühren {THE($target)} mit {THE($bible)}, und ihre Wunden schließen sich mit einem heiligen Licht!
+bible-heal-success-others = {CAPITALIZE(THE($user))} berührt {THE($target)} mit {THE($bible)}, und ihre Wunden schließen sich mit einem heiligen Licht!
+bible-heal-success-none = {THE($target)} hat keine Wunden zu heilen!
+bible-heal-fail-self = Sie schlagen {THE($target)} mit {THE($bible)}, aber nichts passiert!
+bible-heal-fail-others = {CAPITALIZE(THE($user))} schlägt {THE($target)} mit {THE($bible)}, aber nichts passiert!
+bible-sizzle = Das Buch zischt in Ihren Händen!
+bible-summon-verb = Bekräftigung beschwören
+bible-summon-verb-desc = Beschwöre eine Bekräftigung deines Glaubens, die ein Gläubiger werden kann.
+bible-summon-other-fail = {CAPITALIZE(THE($book))} zittert kurz, scheint aber bereits aktiv zu sein.
+bible-summon-popup = Ein ätherisches Licht erscheint über {THE($book)}!
