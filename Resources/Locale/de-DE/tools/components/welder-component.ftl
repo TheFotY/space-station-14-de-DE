@@ -1,7 +1,7 @@
 welder-component-welder-not-lit-message = Das Schweißgerät ist ausgeschaltet!
 welder-component-cannot-weld-message = Das Schweißgerät hat nicht genug Treibstoff dafür!
 welder-component-no-fuel-message = Das Schweißgerät hat keinen Treibstoff mehr!
-welder-component-no-fuel-in-tank = {$owner} ist leer.
+welder-component-no-fuel-in-tank = Das {$owner} ist leer.
 welder-component-on-examine-welder-lit-message = [color=orange]Angezündet[/color]
 welder-component-on-examine-welder-not-lit-message = Nicht angezündet
 welder-component-on-examine-detailed-message = Treibstoff: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]
