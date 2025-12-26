@@ -1,0 +1,11 @@
+shuttle-timer-eta = ETA
+shuttle-timer-etd = ETD
+shuttle-timer-shuttle-time = ShuttleZeit
+shuttle-timer-source-time = QuelleZeit
+shuttle-timer-dest-time = ZielZeit
+shuttle-timer-shuttle-map = ShuttleKarte
+shuttle-timer-source-map = QuelleKarte
+shuttle-timer-dest-map = ZielKarte
+shuttle-timer-docked = Angedockt
+shuttle-timer-bye = TSCHÜSS!
+shuttle-timer-kill = TÖTEN
