@@ -1,0 +1,16 @@
+cargoproduct-category-name-armory = Waffenkammer
+cargoproduct-category-name-atmospherics = Atmosphärentechnik
+cargoproduct-category-name-cargo = Fracht
+cargoproduct-category-name-circuitboards = Platinen
+cargoproduct-category-name-emergency = Notfall
+cargoproduct-category-name-engineering = Technik
+cargoproduct-category-name-food = Essen
+cargoproduct-category-name-fun = Spaß
+cargoproduct-category-name-hydroponics = Hydroponik
+cargoproduct-category-name-livestock = Viehbestand
+cargoproduct-category-name-materials = Materialien
+cargoproduct-category-name-medical = Medizin
+cargoproduct-category-name-science = Wissenschaft
+cargoproduct-category-name-security = Sicherheit
+cargoproduct-category-name-service = Service
+cargoproduct-category-name-shuttle = Shuttle

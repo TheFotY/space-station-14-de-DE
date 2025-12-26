@@ -1,0 +1,1 @@
+station-event-mouse-migration-announcement = Wir haben eine ankommende Nagetierwanderung zur Station erkannt. Bitte meiden Sie die Wartungstunnel und vermeiden Sie übermäßigen Kontakt.

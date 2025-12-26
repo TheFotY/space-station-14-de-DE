@@ -1,0 +1,1 @@
+telecrystal-component-sucs-inserted = Du steckst { THE($source) } in { THE($target) }.
