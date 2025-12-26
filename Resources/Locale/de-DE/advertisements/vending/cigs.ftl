@@ -1,0 +1,15 @@
+advertisement-cigs-1 = Space-Zigaretten schmecken gut, wie eine Zigarette schmecken sollte.
+advertisement-cigs-2 = Ich würde lieber die Werkzeugkiste nehmen als wechseln.
+advertisement-cigs-3 = Rauch!
+advertisement-cigs-4 = Glaub den Berichten nicht - rauch heute!
+advertisement-cigs-5 = Wahrscheinlich nicht schlecht für dich!
+advertisement-cigs-6 = Glaub den Wissenschaftlern nicht!
+advertisement-cigs-7 = Es ist gut für dich!
+advertisement-cigs-8 = Hör nicht auf, kauf mehr!
+advertisement-cigs-9 = Nikotin-Himmel.
+advertisement-cigs-10 = Beste Zigaretten seit 2150.
+advertisement-cigs-11 = Preisgekrönte Zigaretten.
+advertisement-cigs-12 = Hier, um die Arbeit zu erleichtern!
+thankyou-cigs-1 = Du hast sie, jetzt rauch sie!
+thankyou-cigs-2 = Du wirst es wahrscheinlich nicht bereuen!
+thankyou-cigs-3 = Du wirst im Nu süchtig werden!

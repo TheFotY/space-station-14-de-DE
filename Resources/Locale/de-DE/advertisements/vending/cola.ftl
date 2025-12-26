@@ -1,0 +1,12 @@
+advertisement-cola-1 = Erfrischend!
+advertisement-cola-2 = Hoffentlich bist du durstig!
+advertisement-cola-3 = Über 1 Million Getränke verkauft!
+advertisement-cola-4 = Durstig? Warum nicht Cola?
+advertisement-cola-5 = Bitte, nimm ein Getränk!
+advertisement-cola-6 = Trink auf!
+advertisement-cola-7 = Die besten Getränke der Galaxie!
+advertisement-cola-8 = Viel besser als Dr. Gibb!
+thankyou-cola-1 = Öffne die Dose und genieße!
+thankyou-cola-2 = Pow! Das gegen den Durst!
+thankyou-cola-3 = Ich hoffe, du magst Geschmack!
+thankyou-cola-4 = Genieße dein zuckerhaltiges Getränk!

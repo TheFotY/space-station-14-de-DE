@@ -1,0 +1,13 @@
+advertisement-chefvend-1 = Mindestens sechzig Prozent unserer Eier unzerbrochen, garantiert!
+advertisement-chefvend-2 = Reis, Reis, Baby.
+advertisement-chefvend-3 = Schmier etwas Butter drauf!
+advertisement-chefvend-4 = Bist du dein Salz wert? Wir sind es.
+advertisement-chefvend-5 = Mmm, Fleisch.
+advertisement-chefvend-6 = Nutze die Kraft des Mehls.
+advertisement-chefvend-7 = Zeig deinen Kunden, wer der beste Koch ist mit unserer galaxieweit berühmten, preisgekrönten BBQ-Sauce.
+advertisement-chefvend-8 = Ich liebe ein paar schöne rohe Eier.
+advertisement-chefvend-9 = Genieße ein paar schöne rohe Eier!
+thankyou-chefvend-1 = Zeit zum Kochen!
+thankyou-chefvend-2 = Danke, dass du unseren Qualitätszutaten vertraust!
+thankyou-chefvend-3 = Das sollte ihnen geben, wonach sie sich sehnen!
+thankyou-chefvend-4 = Geh und mach diese Burger!

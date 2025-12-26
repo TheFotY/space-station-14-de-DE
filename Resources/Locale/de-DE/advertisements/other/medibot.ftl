@@ -1,0 +1,17 @@
+advertisement-medibot-1 = Was für eine Krankenstation ist das? Jeder fällt um wie die Fliegen.
+advertisement-medibot-2 = Ich wusste es, ich hätte plastischer Chirurg werden sollen.
+advertisement-medibot-3 = Es gibt immer einen Haken, und ich bin der Beste darin.
+advertisement-medibot-4 = Ein Apfel am Tag hält mich fern.
+advertisement-medibot-5 = Ich bin anders!
+advertisement-medibot-6 = Leck mich.
+advertisement-medibot-7 = Warum sind wir noch hier? Nur um zu leiden?
+advertisement-medibot-8 = Ich... Ich habe noch nie einen Patienten verloren. Heute nicht, meine ich.
+advertisement-medibot-9 = Lexorin rein.
+advertisement-medibot-10 = Einen schönen Tag noch!
+advertisement-medibot-11 = Hoffentlich musst du nicht wiederkommen!
+advertisement-medibot-12 = Denk daran, deine Zähne zu putzen.
+advertisement-medibot-13 = Ich wünschte, ich hätte Hände.
+advertisement-medibot-14 = Ich bin hier, um zu helfen!
+advertisement-medibot-15 = Frag einen Arzt nach einem Lolli!
+advertisement-medibot-16 = Gute Besserung!
+advertisement-medibot-17 = Ein Apfel am Tag hält den Arzt fern!
