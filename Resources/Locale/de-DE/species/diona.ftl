@@ -1,0 +1,1 @@
+diona-hurt-by-herbicide-popup = Die Chemikalie lässt einiges deines Grüns welken!
