@@ -1,0 +1,1 @@
+station-event-breaker-flip-announcement = Basierend auf { $data } haben wir uns entschieden, bestimmte APCs zu deaktivieren, um Schäden an Geräten zu vermeiden. Bitte kontaktiere die Technikabteilung, um sie wieder zu aktivieren.

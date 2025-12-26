@@ -1,0 +1,1 @@
+station-event-vent-creatures-start-announcement = Achtung. Eine große Anzahl unbekannter Lebensformen wurde in den Lüftungssystemen der Station entdeckt. Bitte entfernen Sie diese Kreaturen, bevor es die Produktivität beeinträchtigt.
