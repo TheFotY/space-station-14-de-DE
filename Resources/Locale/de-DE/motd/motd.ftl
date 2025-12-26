@@ -1,0 +1,11 @@
+cmd-motd-desc = Zeigt oder setzt die Nachricht des Tages an.
+cmd-motd-help = motd [ Nachricht... ]
+cmd-get-motd-desc = Zeigt die Nachricht des Tages an.
+cmd-get-motd-help = get-motd
+cmd-set-motd-desc = Setzt oder löscht die Nachricht des Tages.
+cmd-set-motd-help = set-motd [ Nachricht... ]
+cmd-set-motd-hint-head = [ Nachricht... ]
+cmd-set-motd-hint-cont = [ ...Nachricht... ]
+cmd-set-motd-cleared-motd-message = Nachricht des Tages gelöscht.
+cmd-set-motd-set-motd-message = Nachricht des Tages auf "{$motd}" gesetzt.
+motd-wrap-message = Nachricht des Tages: {$motd}
