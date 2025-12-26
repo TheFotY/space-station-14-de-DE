@@ -1,0 +1,2 @@
+station-event-bureaucratic-error-announcement = Ein kürzlicher bürokratischer Fehler in der Abteilung für organische Ressourcen kann zu Personalmangel in einigen Abteilungen und überflüssiger Besetzung in anderen führen.
+station-event-clerical-error-announcement = Ein kleiner Verwaltungsfehler in der Abteilung für organische Ressourcen hat zur permanenten Zerstörung einiger Stationsaufzeichnungen geführt.
