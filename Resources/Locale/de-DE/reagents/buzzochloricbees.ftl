@@ -1,0 +1,15 @@
+buzzochloricbees-effect-oh-god-bees = Du wirst von vielen, vielen Bienen umschwärmt.
+buzzochloricbees-effect-its-the-bees = Es sind die Bienen, oh Gott die Bienen.
+buzzochloricbees-effect-why-am-i-covered-in-bees = Du bist mit wütenden Bienen bedeckt.
+buzzochloricbees-effect-one-with-the-bees = Du bist eins mit den Bienen.
+buzzochloricbees-effect-squeaky-clean = Du fühlst dich blitzsauber, während die Bienen versuchen, dich loszuwerden.
+buzzochloricbees-effect-histamine-bee-allergy = Du bist anscheinend hochgradig allergisch gegen Bienen.
+buzzochloricbees-effect-histamine-swells = Du schwillst wie ein Ballon in Gegenwart der Bienen an.
+buzzochloricbees-effect-histamine-numb-to-the-bees = Du bist taub gegenüber den Bienen.
+buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = Du bist nicht eins mit den Bienen.
+buzzochloricbees-effect-licoxide-electrifying = Die Bienen sind elektrisierend.
+buzzochloricbees-effect-licoxide-shocked-by-bee-facts = Du bist schockiert von diesen fünf Bienenfakten.
+buzzochloricbees-effect-licoxide-buzzed = Du fühlst dich beschwingt.
+buzzochloricbees-effect-licoxide-buzzes = Du summst mit den Bienen.
+buzzochloricbees-effect-fiber-hairy = Du fühlst dich pelzig, wie eine Biene.
+buzzochloricbees-effect-fiber-soft = Du fühlst einige außergewöhnlich weiche Bienen.
