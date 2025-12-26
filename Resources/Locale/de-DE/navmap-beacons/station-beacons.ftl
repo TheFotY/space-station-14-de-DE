@@ -1,0 +1,100 @@
+station-beacon-general = Allgemein
+
+station-beacon-command = Kommando
+station-beacon-bridge = Brücke
+station-beacon-vault = Tresor
+station-beacon-gateway = Gateway
+station-beacon-captain = Kapitän
+station-beacon-hop = HOP
+
+station-beacon-security = Sicherheit
+station-beacon-brig = Brig
+station-beacon-brig-med = Brig Med
+station-beacon-warden = Wärter
+station-beacon-hos = HOS
+station-beacon-armory = Waffenkammer
+station-beacon-perma-brig = Perma
+station-beacon-detective = Detektiv
+station-beacon-courtroom = Gerichtssaal
+station-beacon-law = Rechtsbüro
+station-beacon-security-checkpoint = Kontrollpunkt
+
+station-beacon-medical = Medizin
+station-beacon-medbay = Krankenstation
+station-beacon-chemistry = Chemie
+station-beacon-cryonics = Kryokapseln
+station-beacon-cmo = CMO
+station-beacon-morgue = Leichenschauhaus
+station-beacon-surgery = Chirurgie
+station-beacon-psychology = Psychologie
+station-beacon-clinic = Klinik
+
+station-beacon-science = Wissenschaft
+station-beacon-research-and-development = Forschung
+station-beacon-research-server = Server
+station-beacon-research-director = FD
+station-beacon-robotics = Robotik
+station-beacon-artifact-lab = Artefakt
+station-beacon-anomaly-gen = Anomalie
+
+station-beacon-supply = Versorgung
+station-beacon-cargo = Fracht
+station-beacon-cargo-bay = Frachtbucht
+station-beacon-qm = QM
+station-beacon-salvage = Bergung
+
+station-beacon-engineering = Technik
+station-beacon-ce = CT
+station-beacon-ame = AME
+station-beacon-solars = Solarpanele
+station-beacon-solars-N = Solarpanele N
+station-beacon-solars-NE = Solarpanele NO
+station-beacon-solars-E = Solarpanele O
+station-beacon-solars-SE = Solarpanele SO
+station-beacon-solars-S = Solarpanele S
+station-beacon-solars-SW = Solarpanele SW
+station-beacon-solars-W = Solarpanele W
+station-beacon-solars-NW = Solarpanele NW
+station-beacon-gravgen = Grav
+station-beacon-pa = PA-Steuerung
+station-beacon-smes = SMES
+station-beacon-telecoms = Telekom
+station-beacon-atmos = Atmos
+station-beacon-teg = TEG
+station-beacon-tech-vault = Tech-Tresor
+station-beacon-anchor = Anker
+
+station-beacon-service = Service
+station-beacon-kitchen = Küche
+station-beacon-bar = Bar
+station-beacon-botany = Botanik
+station-beacon-janitor = Hausmeister
+
+station-beacon-ai = KI
+station-beacon-ai-sat = KI-Sat
+station-beacon-ai-core = KI-Kern
+station-beacon-ai-upload = KI-Upload
+station-beacon-ai-power = KI-Strom
+
+station-beacon-arrivals = Ankunft
+station-beacon-evac = Evak
+station-beacon-docking-arm = Andockarm
+station-beacon-eva-storage = EVA-Lager
+station-beacon-chapel = Kapelle
+station-beacon-library = Bibliothek
+station-beacon-reporter = Reporter
+station-beacon-dorms = Schlafräume
+station-beacon-theater = Theater
+station-beacon-tools = Werkzeuge
+station-beacon-disposals = Müllentsorgung
+station-beacon-cryosleep = Kryoschlaf
+station-beacon-escape-pod = Rettungskapsel
+station-beacon-escape-pod-N = Rettungskapsel N
+station-beacon-escape-pod-NE = Rettungskapsel NO
+station-beacon-escape-pod-E = Rettungskapsel O
+station-beacon-escape-pod-SE = Rettungskapsel SO
+station-beacon-escape-pod-S = Rettungskapsel S
+station-beacon-escape-pod-SW = Rettungskapsel SW
+station-beacon-escape-pod-W = Rettungskapsel W
+station-beacon-escape-pod-NW = Rettungskapsel NW
+station-beacon-vox = Vox-Pausenraum

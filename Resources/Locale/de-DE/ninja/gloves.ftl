@@ -1,0 +1,6 @@
+ninja-gloves-on = Die Handschuhe pulsieren vor Kraft!
+ninja-gloves-off = Die Handschuhe schalten sich ab...
+ninja-gloves-not-wearing-suit = Du trägst keinen Ninja-Anzug
+ninja-gloves-examine-on = Alle Fähigkeiten sind aktiviert.
+ninja-gloves-examine-off = Langweilige alte Handschuhe...
+ninja-doorjack-success = Die Handschuhe überbrücken etwas in { THE($target) }.

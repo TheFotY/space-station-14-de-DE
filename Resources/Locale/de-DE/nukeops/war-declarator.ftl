@@ -1,0 +1,15 @@
+war-declarator-not-working = Das Gerät macht Pieptöne, aber nichts passiert...
+war-declarator-ui-header = Kriegserklärung
+war-declarator-ui-war-button = KRIEG ERKLÄREN!
+war-declarator-ui-try-war-button = Versuche Krieg zu erklären
+war-declarator-conditions-small-crew = Es gibt nicht genug Atomoperative, um den Krieg zu erklären!
+war-declarator-conditions-left-outpost = Shuttle hat den Syndikatsaußenposten verlassen
+war-declarator-conditions-time-out = Kriegserklärungszeit abgelaufen
+war-declarator-conditions-ready = Shuttle kann den Außenposten verlassen!
+war-declarator-conditions-unknown = Unbekannt
+war-declarator-boost-possible = Kriegserklärung möglich
+war-declarator-boost-impossible = Kriegserklärung nicht möglich
+war-declarator-boost-declared = Krieg erklärt! Shuttle könnte deaktiviert sein für...
+war-declarator-boost-timer = Verbleibende Zeit: {$time} Minuten.
+war-declarator-default-message = Eine Syndikats-Randgruppe hat ihre Absicht erklärt, die Station mit einem Atomsprengkopf vollständig zu zerstören, und fordert die Crew heraus, sie aufzuhalten.
+war-declarator-message-placeholder = Schreibe hier eine eigene Kriegserklärung...
