@@ -1,0 +1,9 @@
+decal-placer-window-title = Abziehbild-Platzierer
+decal-placer-window-use-color = Benutzerdefinierte Farbe
+decal-placer-window-rotation = Rotation
+decal-placer-window-zindex = Zeichnungstiefe
+decal-placer-window-enable-auto = Automatische Einstellungen verwenden
+decal-placer-window-enable-snap = An Kachel einrasten
+decal-placer-window-enable-cleanable = Reinigbar
+decal-placer-window-palette = Palette
+palette-color-picker-window-title = Paletten
