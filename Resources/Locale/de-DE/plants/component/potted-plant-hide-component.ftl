@@ -1,0 +1,1 @@
+potted-plant-hide-component-interact-hand-got-no-item-message = Du wühlst in den Wurzeln herum.
