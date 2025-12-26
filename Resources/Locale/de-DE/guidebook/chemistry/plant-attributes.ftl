@@ -1,0 +1,10 @@
+plant-attribute-growth = Alter
+plant-attribute-water = Wasserstand
+plant-attribute-potency = Potenz
+plant-attribute-weeds = Unkrautstand
+plant-attribute-toxins = Toxinstand
+plant-attribute-nutrition = Nährwertstand
+plant-attribute-mutation-level = Mutationslevel
+plant-attribute-pests = Schädlingsstand
+plant-attribute-mutation-mod = Mutationsmodifikator
+plant-attribute-health = Gesundheit

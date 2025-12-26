@@ -1,0 +1,1 @@
+sliceable-food-component-on-examine-remaining-slices-text = Es sind noch {$remainingCount} Scheiben übrig.

@@ -1,0 +1,1 @@
+particle-accelerator-control-box-component-wires-update-limiter-on-pulse = Die Steuerbox macht ein surrendes Geräusch.
