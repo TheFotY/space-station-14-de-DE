@@ -1,0 +1,9 @@
+advertisement-nanomed-1 = Geh und rette einige Leben!
+advertisement-nanomed-2 = Das beste Zeug für deine Krankenstation.
+advertisement-nanomed-3 = Nur die feinsten Werkzeuge.
+advertisement-nanomed-4 = Natürliche Chemikalien!
+advertisement-nanomed-5 = Dieses Zeug rettet Leben.
+advertisement-nanomed-6 = Willst du nicht welches?
+advertisement-nanomed-7 = Ping!
+advertisement-nanomed-8 = Achte darauf, Leute nicht zu überdosieren!
+advertisement-nanomed-9 = Geh und überdosiere Leute!

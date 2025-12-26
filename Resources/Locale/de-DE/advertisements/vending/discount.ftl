@@ -1,0 +1,17 @@
+advertisement-discount-1 = Discount Dan, er ist der Mann!
+advertisement-discount-2 = Es gibt nichts Besseres auf dieser Welt als einen Bissen Mysterium.
+advertisement-discount-3 = Hör nicht auf die anderen Automaten, kauf mein Produkt!
+advertisement-discount-4 = Quantität vor Qualität!
+advertisement-discount-5 = Hör nicht auf diese Eierköpfe vom CDC, kauf jetzt!
+advertisement-discount-6 = Discount Dan's: Wir sind gut für dich! Nee, konnte das nicht mit ernster Miene sagen.
+advertisement-discount-7 = Discount Dan's: Nur die beste Qualität produ-*BZZT
+advertisement-discount-8 = Discount Dan(tm) ist nicht verantwortlich für Schäden durch Missbrauch seines Produkts.
+advertisement-discount-9 = Wir bieten eine große Auswahl an günstigen Snacks!
+thankyou-discount-1 = Danke fürs Benu-*BZZT
+thankyou-discount-2 = Denk daran: keine Rückerstattungen!
+thankyou-discount-3 = Es ist jetzt dein Problem!
+thankyou-discount-4 = Wir sind gesetzlich verpflichtet, dich daran zu erinnern, das nicht zu essen.
+thankyou-discount-5 = Bitte verklag uns nicht!
+thankyou-discount-6 = Wir schwören, es sah so aus, als wir es eingeräumt haben!
+thankyou-discount-7 = Ja, viel Glück damit.
+thankyou-discount-8 = Genieße deinen, äh... "Snack".

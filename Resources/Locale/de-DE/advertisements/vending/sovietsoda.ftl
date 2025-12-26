@@ -1,0 +1,9 @@
+advertisement-sovietsoda-1 = Für Kamerad und Vaterland.
+advertisement-sovietsoda-2 = Hast du heute deine Ernährungsquote erfüllt?
+advertisement-sovietsoda-3 = Sehr schön!
+advertisement-sovietsoda-4 = Wir sind einfache Leute, denn das ist alles, was wir essen.
+advertisement-sovietsoda-5 = Wenn es eine Person gibt, gibt es ein Problem. Wenn es keine Person gibt, gibt es kein Problem.
+advertisement-sovietsoda-6 = Wenn es gut genug für den Alltag ist, ist es gut genug für uns!
+thankyou-sovietsoda-1 = Genieße, Kamerad!
+thankyou-sovietsoda-2 = Jetzt zurück an die Arbeit.
+thankyou-sovietsoda-3 = Das ist alles, was du bekommst.

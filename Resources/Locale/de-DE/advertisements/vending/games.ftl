@@ -1,0 +1,14 @@
+advertisement-goodcleanfun-1 = Entfliehe in eine Fantasiewelt!
+advertisement-goodcleanfun-2 = Füttere deine Spielsucht!
+advertisement-goodcleanfun-3 = Ruiniere deine Freundschaften!
+advertisement-goodcleanfun-4 = Würfle für Initiative!
+advertisement-goodcleanfun-5 = Elfen und Zwerge!
+advertisement-goodcleanfun-6 = Paranoide Computer!
+advertisement-goodcleanfun-7 = Absolut nicht satanisch!
+advertisement-goodcleanfun-8 = Spaßzeiten für immer!
+advertisement-goodcleanfun-9 = Krypten und Karpfen!
+advertisement-goodcleanfun-10 = Spiel mit Freunden!
+thankyou-goodcleanfun-1 = Viel Spaß!
+thankyou-goodcleanfun-2 = Jetzt spielst du mit Power!
+thankyou-goodcleanfun-3 = Geh und game los!
+thankyou-goodcleanfun-4 = Fang an, deine Charakterbögen zu erstellen!

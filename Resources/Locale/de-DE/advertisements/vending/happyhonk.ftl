@@ -1,0 +1,14 @@
+advertisement-happyhonk-1 = Honk! Honk! Warum nicht heute eine Happy Honk Mahlzeit bestellen?
+advertisement-happyhonk-2 = Clowns verdienen eine Umarmung, wenn du einen siehst, zeig deine Wertschätzung.
+advertisement-happyhonk-3 = Wenn du den Goldenen Honker findest, dann bete zu den Göttern, du bist eine Glücksperson.
+advertisement-happyhonk-4 = Happy Honk: Es ist eine Mahlzeit, es ist ein Deal, es hat ein Plastikspielzeug, das dich quieken lässt.
+advertisement-happyhonk-5 = Was ist schwarz und weiß und überall rot? Der Mime und sie starb an stumpfem Kopftrauma.
+advertisement-happyhonk-6 = Wie viele Sicherheitsbeamte braucht es, um dich zu verhaften? Drei, einer schlägt dich zu Tode, einer legt dir Handschellen an und einer wirft deine Leiche in die Wartung.
+advertisement-happyhonk-7 = Happy Honk ist nicht verantwortlich für die Qualität des Essens in unseren Happy Honk Mahlzeitboxen.
+advertisement-happyhonk-8 = Warum nicht nach unserer limitierten Mime Happy Honk Mahlzeit fragen?
+advertisement-happyhonk-9 = Happy Honk ist ein Warenzeichen von Honk! co. und ist weit überlegen gegenüber Robust Nukie Food Corp.
+advertisement-happyhonk-10 = Unsere Happy Honk Mahlzeiten bieten garantiert eine tolle Überraschung!
+thankyou-happyhonk-1 = Honk!
+thankyou-happyhonk-2 = Honk honk!
+thankyou-happyhonk-3 = Geh und teile den Spaß! Honk!
+thankyou-happyhonk-4 = Geh und bring Leute zum Ausrutschen! Honk!

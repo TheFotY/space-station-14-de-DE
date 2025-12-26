@@ -1,0 +1,9 @@
+advertisement-nutrimax-1 = Wir mögen Pflanzen!
+advertisement-nutrimax-2 = Willst du nicht welche?
+advertisement-nutrimax-3 = Die grünsten Daumen aller Zeiten.
+advertisement-nutrimax-4 = Wir mögen große Pflanzen.
+advertisement-nutrimax-5 = Weiche Erde...
+advertisement-nutrimax-6 = Eimer jetzt inklusive!
+advertisement-nutrimax-7 = Je größer die Pflanze, desto besser!
+thankyou-nutrimax-1 = Fang an zu pflanzen!
+thankyou-nutrimax-2 = Spiel mit etwas Erde!
