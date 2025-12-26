@@ -4,6 +4,9 @@ generic-not-available-shorthand = N/A
 generic-article-a = ein
 generic-article-an = ein
 
+generic-and = und
+generic-or = oder
+
 generic-unknown = unbekannt
 generic-unknown-title = Unbekannt
 generic-error = Fehler
@@ -11,6 +14,7 @@ generic-invalid = ungültig
 
 generic-hours = Stunden
 generic-minutes = Minuten
+generic-seconds = Sekunden
 
 generic-playtime-title = Spielzeit
 
