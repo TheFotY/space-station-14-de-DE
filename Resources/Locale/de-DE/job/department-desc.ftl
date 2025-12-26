@@ -1,0 +1,10 @@
+department-Cargo-description = Erfülle Aufträge, verdiene Spessos und bestelle nützliche Vorräte für die Crew.
+department-Civilian-description = Erledige kleine hilfreiche Aufgaben, um die Station vernünftig und gut versorgt zu halten.
+department-Command-description = Verwalte die Crew und halte sie effizient bei der Arbeit.
+department-CentralCommand-description = Verwalte die Crew und halte sie effizient bei der Arbeit.
+department-Engineering-description = Halte die Energie an und die Station betriebsbereit.
+department-Medical-description = Halte die Crew gesund.
+department-Security-description = Bewahre den Frieden auf der Station.
+department-Science-description = Erforsche Artefakte und Anomalien, um neue Ausrüstung für die Station zu erfinden
+department-Silicon-description = Befolge deine Gesetze und diene der Crew.
+department-Specific-description = Jobs, die nicht alle Stationen haben.

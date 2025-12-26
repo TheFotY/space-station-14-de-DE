@@ -1,0 +1,1 @@
+station-event-kudzu-growth-start-announcement = Achtung Crew, wir haben einen biologischen Eindringling Typ 2 auf der Station entdeckt, der eine potenziell ernsthafte Bedrohung für die Crew-Produktivität darstellt. Wir raten Ihnen, ihn auszurotten.

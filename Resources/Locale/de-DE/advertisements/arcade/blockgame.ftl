@@ -1,0 +1,26 @@
+advertisement-block-game-1 = Rechtlich unterscheidbar!
+advertisement-block-game-2 = Was zur Hölle ist ein T-Spin?
+advertisement-block-game-3 = Diese Blöcke räumen sich nicht von selbst!
+advertisement-block-game-4 = Piep boop! Bwoooop!
+advertisement-block-game-5 = Lass uns ein Spiel spielen!
+advertisement-block-game-6 = 6 ganze Farben voller Spielspaß!
+advertisement-block-game-7 = Heiße 8-Bit-Action!
+advertisement-block-game-8 = Blöcke, Blöcke, Blöcke!
+advertisement-block-game-9 = Denkst DU, du kannst den Highscore knacken?
+advertisement-block-game-10 = Nanotrasen Block Game IST was TetrISN'T!
+advertisement-block-game-11 = Jetzt mit Blast-Processing!
+advertisement-block-game-12 = Unsere Anwälte stehen bereit!
+advertisement-block-game-13 = Halleluja, es regnet Blöcke!
+
+thankyou-block-game-1 = Spiel bald wieder!
+thankyou-block-game-2 = Gut gespielt!
+thankyou-block-game-3 = Nur noch ein Spiel?
+thankyou-block-game-4 = Schon aufhören?
+thankyou-block-game-5 = Die Blöcke werden dich vermissen.
+thankyou-block-game-6 = Danke fürs Spielen!
+thankyou-block-game-7 = Komm bald wieder!
+thankyou-block-game-8 = Piep bwooop!
+thankyou-block-game-9 = Es ist immer Zeit für ein weiteres Spiel!
+thankyou-block-game-10 = Gib jetzt nicht auf!
+thankyou-block-game-11 = Es gibt immer mehr Blöcke!
+thankyou-block-game-12 = Die Blöcke erwarten deine Rückkehr!

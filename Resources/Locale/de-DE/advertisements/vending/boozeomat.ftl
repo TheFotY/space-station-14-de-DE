@@ -1,0 +1,23 @@
+advertisement-boozeomat-1 = Ich hoffe, niemand fragt mich nach einer verdammten Tasse Tee...
+advertisement-boozeomat-2 = Alkohol ist der Freund der Menschheit. Würdest du einen Freund im Stich lassen?
+advertisement-boozeomat-3 = Sehr erfreut, dich zu bedienen!
+advertisement-boozeomat-4 = Ist denn niemand durstig auf dieser Station?
+advertisement-boozeomat-5 = Trink auf!
+advertisement-boozeomat-6 = Alkohol ist gut für dich!
+advertisement-boozeomat-7 = Alkohol ist der beste Freund der Menschheit.
+advertisement-boozeomat-8 = Lust auf ein schönes, kaltes Bier?
+advertisement-boozeomat-9 = Nichts heilt dich wie Alkohol!
+advertisement-boozeomat-10 = Nimm einen Schluck!
+advertisement-boozeomat-11 = Nimm ein Getränk!
+advertisement-boozeomat-12 = Nimm ein Bier!
+advertisement-boozeomat-13 = Bier ist gut für dich!
+advertisement-boozeomat-14 = Nur der feinste Alkohol!
+advertisement-boozeomat-15 = Beste Qualität seit 2053!
+advertisement-boozeomat-16 = Preisgekrönter Wein!
+advertisement-boozeomat-17 = Maximaler Alkohol!
+advertisement-boozeomat-18 = Der Mensch liebt Bier.
+advertisement-boozeomat-19 = Ein Toast auf den Fortschritt!
+thankyou-boozeomat-1 = Bitte trinke verantwortungsvoll!
+thankyou-boozeomat-2 = Bitte trinke unverantwortlich!
+thankyou-boozeomat-3 = Bitte genieße dein Getränk!
+

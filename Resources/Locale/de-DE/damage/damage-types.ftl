@@ -1,0 +1,13 @@
+damage-type-asphyxiation = Erstickung
+damage-type-bloodloss = Blutverlust
+damage-type-blunt = Stumpf
+damage-type-cellular = Zellulär
+damage-type-caustic = Ätzend
+damage-type-cold = Kälte
+damage-type-heat = Hitze
+damage-type-piercing = Durchdringend
+damage-type-poison = Gift
+damage-type-radiation = Strahlung
+damage-type-shock = Schock
+damage-type-slash = Hieb
+damage-type-structural = Strukturell

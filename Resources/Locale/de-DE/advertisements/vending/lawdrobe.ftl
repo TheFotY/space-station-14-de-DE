@@ -1,0 +1,14 @@
+advertisement-lawdrobe-1 = EINSPRUCH! Hol dir die Rechtsstaatlichkeit!
+advertisement-lawdrobe-2 = Geh und nerve die Sicherheit, bis sie sich an deine eigenen Regeln halten!
+advertisement-lawdrobe-3 = Ein neuer Fall ist reingekommen? Hol sie aus dem Gefängnis!
+advertisement-lawdrobe-4 = Ein Donut am Tag hält die Sicherheit fern!
+advertisement-lawdrobe-5 = Niemand steht über dem Gesetz!
+advertisement-lawdrobe-6 = Nein, Offizier, ich stimme keiner Durchsuchung zu!
+advertisement-lawdrobe-7 = Space-Drogen injizieren hinterlässt keine Beweise!
+advertisement-lawdrobe-8 = Sie oder ein Angehöriger von Nanotrasen verletzt? Pech gehabt!
+advertisement-lawdrobe-9 = Fall abgeschlossen! Angeklagter hat zu viel Drip!
+thankyou-lawdrobe-1 = Du kannst jeden Fall in diesem Outfit gewinnen!
+thankyou-lawdrobe-2 = Hol auch eins für deinen Mandanten!
+thankyou-lawdrobe-3 = Gewonnen oder verloren, du wirst so oder so bezahlt!
+thankyou-lawdrobe-4 = Denk daran: Es ist nur illegal, wenn du erwischt wirst!
+thankyou-lawdrobe-5 = EINSPRUCH! Dieses Outfit ist zu cool für den Gerichtssaal!
