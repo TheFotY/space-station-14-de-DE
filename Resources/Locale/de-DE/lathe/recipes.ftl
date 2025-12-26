@@ -1,0 +1,8 @@
+lathe-recipe-Medkit-name = Erste-Hilfe-Kasten (leer)
+lathe-recipe-MedkitBurn-name = Verbrennungsbehandlungskasten (leer)
+lathe-recipe-MedkitToxin-name = Toxinbehandlungskasten (leer)
+lathe-recipe-MedkitO2-name = Sauerstoffmangelbehandlungskasten (leer)
+lathe-recipe-MedkitBrute-name = Stumpftraumabehandlungskasten (leer)
+lathe-recipe-MedkitAdvanced-name = Erweiterter Erste-Hilfe-Kasten (leer)
+lathe-recipe-MedkitRadiation-name = Strahlungsbehandlungskasten (leer)
+lathe-recipe-MedkitCombat-name = Kampfmedizinkasten (leer)

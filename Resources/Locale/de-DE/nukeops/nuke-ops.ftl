@@ -1,0 +1,2 @@
+nuke-ops-no-more-threat-announcement-shuttle-call = Basierend auf unseren Scans von unseren Langstreckensensoren ist die nukleare Bedrohung nun beseitigt. Wir werden die Notfall-Fähre rufen, die in Kürze eintrifft. ETA: {$time} {$units}. Du kannst die Fähre zurückrufen, um die Schicht zu verlängern.
+nuke-ops-no-more-threat-announcement = Basierend auf unseren Scans von unseren Langstreckensensoren ist die nukleare Bedrohung nun beseitigt. Die Fähre wurde bereits gerufen.
